@@ -14,11 +14,11 @@ I forked for implementing animation stuff in modern OpenGL(GLFW+GLAD+GLM)
 * B-Spline
 * CatmullRom
 
-### Added Features by me
+### Added Features 
 
-* [ ] Adaption for passing waypoint using matrix.
-* [ ] Adaption for GLM
-* [ ] Adaption for WebGL
+* Adaption for passing waypoint using matrix.
+* Adaption for GLM
+* Adaption for WebGL
 
 ## Usage
 
